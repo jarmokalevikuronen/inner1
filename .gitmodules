@@ -1,0 +1,3 @@
+[submodule "inner2"]
+	path = inner2
+	url = https://github.com/jarmokalevikuronen/inner2.git
